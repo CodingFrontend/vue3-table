@@ -38,3 +38,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### Run fake json-server
+
+```sh
+json-server --watch mock-api/db.json
+```
